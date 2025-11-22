@@ -1,0 +1,2 @@
+configuration defined in the service applicication.yml takes precedence and may overwrite the config-server properties.
+so it makes sence removing the properties from appropriate module application.yml
